@@ -1,0 +1,3 @@
+git config --user.name "EnviZity"
+git config --user.email "rr3050@srmist.edu.in"
+git config --list
